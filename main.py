@@ -2,13 +2,13 @@
 
 # Created by: Myles Trump
 # Created on: May 2021
-# This program randomizes 10 numbers and figures out their average
+# This program randomizes 10 numbers and figures which is the largest
 
 import random
 
 
 def main():
-    # this function randomizes 10 numbers and figures out their average
+    # this function randomizes 10 numbers and figures out which is the largest
 
     my_numbers = []
     largest_num = 0
